@@ -1,10 +1,9 @@
-![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f7p726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e3634306263603864313333652e676966)
 <h1 align="center">Hi 👋, I'm **Kaustubh**</h1>
 <h3 align="center">A passionate **AI/ML & Full-Stack Developer** from **India**</h3>
-<img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on projects involving **Machine Learning, Deep Learning, and Full-Stack Web Development**
+
+- 🔭 I’m currently working on projects involving **Machine Learning, Deep Learning, and Full-Stack Web Development (MERN)**
 
 - 🌱 I’m currently learning **Advanced Deep Learning Architectures and System Design**
 
@@ -16,13 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/red_phosphorus_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/kaustubh-sharma-316588220/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>&nbsp;
-  <a href="**[YOUR INSTAGRAM URL]**" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -35,6 +31,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -85,4 +82,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=
+![](https://github-readme-stats.vercel.app/api?username=Kaus-code&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaus-code&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaus-code&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=Kaus-code)
