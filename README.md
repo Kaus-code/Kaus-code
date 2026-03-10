@@ -17,7 +17,6 @@
 - 🎖️ **ICPC Regionalist Qualified**: Competed at the regional level in the International Collegiate Programming Contest, the "Olympics of Programming."
 - 🧩 **1000+ DSA Problems Solved**: Successfully solved over 1000 problems across platforms like LeetCode, Codeforces, and CodeChef.
 - 🥇 **6+ Hackathon Wins**: Participated in teams to win 6+ national and local hackathons, building innovative AI and Full-Stack solutions.
-- 🚀 **Pupil(max 1226) on codeforces || 2 stars(max 1540) on codechef
 ---
 
 # 💻 Tech Stack:
