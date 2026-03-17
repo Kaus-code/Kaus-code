@@ -19,6 +19,8 @@
 - 🧩 **1200+ DSA Problems Solved**: Successfully solved over 1000 problems across platforms like LeetCode, Codeforces, and CodeChef.
 - 🥇 **6+ Hackathon Wins**: Participated in teams to win 6+ national and local hackathons, building innovative AI and Full-Stack solutions.
 
+---
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=atx9dby3pat87hlo04q9bkk7g&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=atx9dby3pat87hlo04q9bkk7g&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" />
