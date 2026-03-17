@@ -12,11 +12,19 @@
 - 📫 How to reach me **sharmakaustubh1410@gmail.com**
 
 ---
+---
 <h2 align="left">🏆 Achievements & Milestones</h2>
 
 - 🎖️ **ICPC Regionalist Qualified**: Competed at the regional level in the International Collegiate Programming Contest, the "Olympics of Programming."
 - 🧩 **1200+ DSA Problems Solved**: Successfully solved over 1000 problems across platforms like LeetCode, Codeforces, and CodeChef.
 - 🥇 **6+ Hackathon Wins**: Participated in teams to win 6+ national and local hackathons, building innovative AI and Full-Stack solutions.
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=atx9dby3pat87hlo04q9bkk7g&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=atx9dby3pat87hlo04q9bkk7g&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=light" />
+  </a>
+</p>
+
 ---
 
 # 💻 Tech Stack:
