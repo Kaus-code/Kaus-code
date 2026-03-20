@@ -21,13 +21,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=atx9dby3pat87hlo04q9bkk7g&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=atx9dby3pat87hlo04q9bkk7g&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" />
-  </a>
-</p>
-
----
 
 # 💻 Tech Stack:
 
