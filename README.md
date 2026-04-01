@@ -66,7 +66,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🤖 Generative AI & Large Language Models (LLMs)
+### Generative AI & Large Language Models (LLMs)
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-060606?style=for-the-badge&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
