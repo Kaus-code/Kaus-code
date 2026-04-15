@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, ReactJS, NextJS, and FastAPI**
 
-- 📫 How to reach me **sharmakaustubh1410@gmail.com**
-
 ---
 
 <h2 align="left">🏆 Achievements & Milestones</h2>
