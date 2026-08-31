@@ -3,7 +3,9 @@
 
 
 
-- 🔭 I’m currently working on projects involving **Machine Learning, Deep Learning, and Full-Stack Web Development (MERN)**
+- 🎓 Previous **Machine Learning Intern** at RewardsgramLLP
+
+- 🔭 I’m currently working on projects involving **Machine Learning, AI Agents, and Full-Stack Web Development (MERN)**
 
 - 🌱 I’m currently learning **Advanced Deep Learning Architectures and System Design**
 
@@ -16,6 +18,7 @@
 - 🎖️ **ICPC Regionalist Qualified**: Competed at the regional level in the International Collegiate Programming Contest, the "Olympics of Programming."
 - 🧩 **1200+ DSA Problems Solved**: Successfully solved over 1200 problems across platforms like LeetCode, Codeforces, and CodeChef.
 - 🥇 **6+ Hackathon Wins**: Participated in teams to win 6+ national and local hackathons, building innovative AI and Full-Stack solutions.
+- 🖥️ **Competetive programming**: Ranked 150 in Codechef Div3, Pupil codeforces.
 
 ---
 
